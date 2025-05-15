@@ -2,7 +2,7 @@
 
 ## About Me
 
-Experienced Full Stack Engineer with extensive experience at top companies like Walmart and IBM, along with founding roles at innovative startups. Proficient in JavaScript/TypeScript, Node.js, Python, and Java, I specialize in building scalable, user-centric web and mobile applications. Currently, as a Senior Software Engineer at NBCUniversal, I develop cutting-edge digital solutions for streaming and entertainment platforms that reach millions of users. Driven by a passion for clean code and continuous learning, I thrive in collaborative environments that blend innovation with execution.
+Experienced Full Stack Engineer with extensive experience at top companies like Walmart and IBM, along with founding roles at innovative startups. Proficient in JavaScript/TypeScript, Node.js, Python, and Java, I specialize in building scalable, user-centric web and mobile applications. Currently, as a Senior Software Engineer at NBCUniversal, I develop cutting-edge digital solutions for streaming and entertainment platforms that reach millions of users. Driven by a passion for clean code and continuous learning, I thrive in collaborative environments that blend innovation with execution. 
 
 ## Skills
 <table>  
